@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is a simple analysis of global temperature data using Python. In this project, we will be analyzing the temperature data for the city of Århus.
+This is a simple analysis of global temperature data using Python. In this project, I will be analyzing the temperature data for the city of Århus.
 
 ## Data
 
-We will be using the Global Land Temperatures By City dataset which can be downloaded from Kaggle. The dataset contains 8 columns and over 8 million rows of temperature data collected from various cities around the world since 1743.
+I will be using the Global Land Temperatures By City dataset which can be downloaded from Kaggle. The dataset contains 8 columns and over 8 million rows of temperature data collected from various cities around the world since 1743.
 
 ## Libraries
 
@@ -30,9 +30,9 @@ We will be using the following libraries:
 
 ## Results
 
-After analyzing the temperature data for the city of Århus, we were able to fit a linear regression model to the data and make predictions on the test set. The mean squared error of the prediction was calculated to be 2.0065, indicating that the model was able to make fairly accurate predictions.
+After analyzing the temperature data for the city of Århus, I was able to fit a linear regression model to the data and make predictions on the test set. The mean squared error of the prediction was calculated to be 2.0065, indicating that the model was able to make fairly accurate predictions.
 
 ## Conclusion
 
-In this project, we were able to analyze temperature data for the city of Århus and build a simple linear regression model to make predictions on the test set. This analysis can be expanded upon by incorporating additional features or by analyzing temperature data for other cities around the world.
+In this project, I was able to analyze temperature data for the city of Århus and build a simple linear regression model to make predictions on the test set. This analysis can be expanded upon by incorporating additional features or by analyzing temperature data for other cities around the world.
 
