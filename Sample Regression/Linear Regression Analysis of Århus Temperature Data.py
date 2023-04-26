@@ -37,7 +37,7 @@ y_pred = lr_.predict(X_test)
 mse = mean_squared_error(y_test, y_pred)
 print('Mean squared error', mse)
 
-#--Plot the prediction and the actual values--#
+#--Plot the prediction Vs the actual values--#
 plt.scatter(y_test, y_pred)
 plt.xlabel('Actual Values')
 plt.ylabel('Predicted Values')
