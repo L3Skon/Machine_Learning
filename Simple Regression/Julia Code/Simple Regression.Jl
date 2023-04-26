@@ -1,7 +1,7 @@
 using Markdown
 
 md"Import Librairies"
-using CSV, DataFrames
+using CSV, DataFrames, Dates
 using MLJ
 
 md"Read data using .csv file, covert it to DataFrame object"
