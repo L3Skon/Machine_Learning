@@ -6,19 +6,19 @@ In this project, I will use the K-Nearest Neighbors (KNN) algorithm to build a c
 
 ## Methodology
 
-1.Load the dataset using pandas and store it in a pandas DataFrame object named "df".
+ 1.Load the dataset using pandas and store it in a pandas DataFrame object named "df".
 
-2.Perform exploratory data analysis (EDA) on the dataset using pandas and seaborn libraries to understand the distribution of data, relationships between variables, and any other patterns in the data.
+ 2.Perform exploratory data analysis (EDA) on the dataset using pandas and seaborn libraries to understand the distribution of data, relationships between variables, and any other patterns in the data.
 
-3.Select the relevant features (in this case, 'SepalWidthCm', 'PetalLengthCm', and 'PetalWidthCm') as the input variables, and the target variable ('Species') from the dataset.
+ 3.Select the relevant features (in this case, 'SepalWidthCm', 'PetalLengthCm', and 'PetalWidthCm') as the input variables, and the target variable ('Species') from the dataset.
 
-4.Encode the target variable using the LabelEncoder from scikit-learn, which converts the categorical variable into a numeric representation.
+ 4.Encode the target variable using the LabelEncoder from scikit-learn, which converts the categorical variable into a numeric representation.
 
-5.Split the data into training and testing sets using train_test_split from scikit-learn.
+ 5.Split the data into training and testing sets using train_test_split from scikit-learn.
 
-6.Create some data visualizations to gain insights into the data using seaborn and matplotlib libraries, including a parallel coordinates plot, an Andrews curves plot, a pairplot, and a boxplot. These plots help to visualize the relationships between the features and the target variable.
+ 6.Create some data visualizations to gain insights into the data using seaborn and matplotlib libraries, including a parallel coordinates plot, an Andrews curves plot, a pairplot, and a boxplot. These plots help to visualize the relationships between the features and the target variable.
 
-7.Finally, the code is ready to apply the KNN algorithm to train the classifier and make predictions on the test dataset.
+ 7.Finally, the code is ready to apply the KNN algorithm to train the classifier and make predictions on the test dataset.
 
 ## Results
 
