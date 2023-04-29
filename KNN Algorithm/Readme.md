@@ -6,7 +6,7 @@ In this project, I will use the K-Nearest Neighbors (KNN) algorithm to build a c
 
 ## Methodology
 
- 1.Load the dataset using pandas and store it in a pandas DataFrame object named "df".
+ 1. Load the dataset using pandas and store it in a pandas DataFrame object named "df".
 
  2.Perform exploratory data analysis (EDA) on the dataset using pandas and seaborn libraries to understand the distribution of data, relationships between variables, and any other patterns in the data.
 
