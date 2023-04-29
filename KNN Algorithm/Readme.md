@@ -8,7 +8,7 @@ In this project, I will use the K-Nearest Neighbors (KNN) algorithm to build a c
 
  1. Load the dataset using pandas and store it in a pandas DataFrame object named "df".
 
- 2.Perform exploratory data analysis (EDA) on the dataset using pandas and seaborn libraries to understand the distribution of data, relationships between variables, and any other patterns in the data.
+ 2. Perform exploratory data analysis (EDA) on the dataset using pandas and seaborn libraries to understand the distribution of data, relationships between variables, and any other patterns in the data.
 
  3.Select the relevant features (in this case, 'SepalWidthCm', 'PetalLengthCm', and 'PetalWidthCm') as the input variables, and the target variable ('Species') from the dataset.
 
